@@ -1,2 +1,2 @@
-# cmake-template
-CMake template project using the Karma Krafts CMake infrastructure.
+# kstd-io
+Cross-platform library for memory and file IO in C++17/20.
